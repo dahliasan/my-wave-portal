@@ -1,3 +1,5 @@
+👀 View the [demo](https://waveportal-starter-project.fooxhd.repl.co/)
+
 # Overview
 
 This is a [buildspace](https://buildspace.so/) project.
