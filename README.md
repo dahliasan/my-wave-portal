@@ -1,4 +1,4 @@
-👀 View the [demo](https://waveportal-starter-project.fooxhd.repl.co/)
+👀 View the [demo](https://waveportal-starter-project.fxhd.repl.co/)
 
 # Overview
 
